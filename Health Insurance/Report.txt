@@ -1,0 +1,11 @@
+Health Insurance Detailed Report
+
+Highlights and Observations:
+
+According to BMI
+	Obese pay the highest premiums
+	Underweight pay the lowest
+People with smoking habits pay about 3 times more than non smokers
+20% of the health insured people are smokers
+52% of the health insured people are obese
+South East residents pay the highest premiums because 66% of them are obese
